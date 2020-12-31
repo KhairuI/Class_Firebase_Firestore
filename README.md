@@ -6,6 +6,6 @@
 02. Read Data
 03. Different Search Query
 
-# Databse 
+# Database 
 
 ![firestore](https://user-images.githubusercontent.com/48696824/103415504-8a332d80-4bac-11eb-9a23-64fedefed460.PNG)
